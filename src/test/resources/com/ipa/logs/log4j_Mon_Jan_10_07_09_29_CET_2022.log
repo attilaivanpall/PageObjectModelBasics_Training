@@ -1,0 +1,8 @@
+[DEBUG] 2022-01-10 07:09:29.890 <com.ipa.base.Page.<init>(Page.java:76)> [main] - {} - Config file is loaded.
+[INFO ] 2022-01-10 07:09:29.895 <com.ipa.base.Page.<init>(Page.java:91)> [main] - {} - OR file is loaded.
+[INFO ] 2022-01-10 07:09:33.329 <com.ipa.base.Page.<init>(Page.java:123)> [main] - {} - CHROME browser is launched.
+[INFO ] 2022-01-10 07:09:40.383 <com.ipa.base.Page.<init>(Page.java:127)> [main] - {} - https://www.zoho.com/ URL is opened.
+[INFO ] 2022-01-10 07:09:41.771 <com.ipa.listeners.CustomListeners.onTestSkipped(CustomListeners.java:73)> [main] - {} - Skipping testcase: loginTest as the runmode is NO.
+[INFO ] 2022-01-10 07:09:41.772 <com.ipa.listeners.CustomListeners.onTestSkipped(CustomListeners.java:74)> [main] - {} - ***************************
+[INFO ] 2022-01-10 07:09:41.881 <com.ipa.listeners.CustomListeners.onTestSkipped(CustomListeners.java:73)> [main] - {} - Skipping testcase: createAccountTest as the runmode is NO.
+[INFO ] 2022-01-10 07:09:41.881 <com.ipa.listeners.CustomListeners.onTestSkipped(CustomListeners.java:74)> [main] - {} - ***************************

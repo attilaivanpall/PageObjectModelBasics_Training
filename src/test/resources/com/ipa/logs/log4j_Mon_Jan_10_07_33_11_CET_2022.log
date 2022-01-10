@@ -1,0 +1,12 @@
+[DEBUG] 2022-01-10 07:33:11.859 <com.ipa.base.Page.<init>(Page.java:76)> [main] - {} - Config file is loaded.
+[INFO ] 2022-01-10 07:33:11.865 <com.ipa.base.Page.<init>(Page.java:91)> [main] - {} - OR file is loaded.
+[INFO ] 2022-01-10 07:33:14.846 <com.ipa.base.Page.<init>(Page.java:123)> [main] - {} - CHROME browser is launched.
+[INFO ] 2022-01-10 07:33:19.332 <com.ipa.base.Page.<init>(Page.java:127)> [main] - {} - https://www.zoho.com/ URL is opened.
+[INFO ] 2022-01-10 07:33:22.290 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on loginBtn_CSS button.
+[INFO ] 2022-01-10 07:33:22.517 <com.ipa.base.Page.type(Page.java:189)> [main] - {} - Typing value: wanarialajos@gmail.com into loginIdFld_ID field.
+[INFO ] 2022-01-10 07:33:22.671 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-10 07:33:22.994 <com.ipa.base.Page.type(Page.java:189)> [main] - {} - Typing value: wanaritest12 into passwordFld_ID field.
+[INFO ] 2022-01-10 07:33:23.070 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-10 07:33:23.072 <com.ipa.testcases.LoginTest.loginTest(LoginTest.java:35)> [main] - {} - Login is successful.
+[INFO ] 2022-01-10 07:33:26.584 <com.ipa.listeners.CustomListeners.onTestSuccess(CustomListeners.java:36)> [main] - {} - The execution of LOGINTEST testcase is PASSED!
+[INFO ] 2022-01-10 07:33:26.586 <com.ipa.listeners.CustomListeners.onTestSuccess(CustomListeners.java:37)> [main] - {} - ***************************

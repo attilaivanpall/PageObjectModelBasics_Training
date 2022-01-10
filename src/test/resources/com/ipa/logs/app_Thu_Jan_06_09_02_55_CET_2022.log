@@ -1,0 +1,12 @@
+2022-01-06 09:02:56,005 DEBUG com.ipa.base.Page.<init>(Page.java:71) [main] {} Config file is loaded.
+2022-01-06 09:02:56,013 INFO com.ipa.base.Page.<init>(Page.java:86) [main] {} OR file is loaded.
+2022-01-06 09:02:59,439 INFO com.ipa.base.Page.<init>(Page.java:118) [main] {} CHROME browser is launched.
+2022-01-06 09:03:05,554 INFO com.ipa.base.Page.<init>(Page.java:122) [main] {} https://www.zoho.com/ URL is opened.
+2022-01-06 09:03:07,529 INFO com.ipa.base.Page.click(Page.java:147) [main] {} Clicing on loginBtn_CSS button.
+2022-01-06 09:03:07,753 INFO com.ipa.base.Page.type(Page.java:184) [main] {} Typing value: wanarialajos@gmail.com into loginIdFld_ID field.
+2022-01-06 09:03:07,866 INFO com.ipa.base.Page.click(Page.java:147) [main] {} Clicing on nextBtn_ID button.
+2022-01-06 09:03:08,144 INFO com.ipa.base.Page.type(Page.java:184) [main] {} Typing value: wanaritest12 into passwordFld_ID field.
+2022-01-06 09:03:08,228 INFO com.ipa.base.Page.click(Page.java:147) [main] {} Clicing on nextBtn_ID button.
+2022-01-06 09:03:08,230 INFO com.ipa.testcases.LoginTest.loginTest(LoginTest.java:35) [main] {} Login is successful.
+2022-01-06 09:03:11,239 INFO com.ipa.base.Page.quit(Page.java:156) [main] {} End of test log.
+2022-01-06 09:03:11,240 INFO com.ipa.base.Page.quit(Page.java:157) [main] {} **********************************************

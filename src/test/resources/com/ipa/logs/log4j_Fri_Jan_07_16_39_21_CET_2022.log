@@ -1,0 +1,4 @@
+[DEBUG] 2022-01-07 16:39:21.480 <com.ipa.base.Page.<init>(Page.java:76)> [main] - {} - Config file is loaded.
+[INFO ] 2022-01-07 16:39:21.501 <com.ipa.base.Page.<init>(Page.java:91)> [main] - {} - OR file is loaded.
+[INFO ] 2022-01-07 16:39:24.614 <com.ipa.base.Page.<init>(Page.java:123)> [main] - {} - CHROME browser is launched.
+[INFO ] 2022-01-07 16:39:29.790 <com.ipa.base.Page.<init>(Page.java:127)> [main] - {} - https://www.zoho.com/ URL is opened.

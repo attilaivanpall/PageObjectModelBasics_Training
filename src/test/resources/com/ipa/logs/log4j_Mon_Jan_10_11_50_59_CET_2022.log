@@ -1,0 +1,20 @@
+[DEBUG] 2022-01-10 11:50:59.427 <com.ipa.base.Page.<init>(Page.java:74)> [main] - {} - Config file is loaded.
+[INFO ] 2022-01-10 11:50:59.432 <com.ipa.base.Page.<init>(Page.java:89)> [main] - {} - OR file is loaded.
+[INFO ] 2022-01-10 11:51:02.186 <com.ipa.base.Page.<init>(Page.java:121)> [main] - {} - CHROME browser is launched.
+[INFO ] 2022-01-10 11:51:06.992 <com.ipa.base.Page.<init>(Page.java:125)> [main] - {} - https://www.zoho.com/ URL is opened.
+[INFO ] 2022-01-10 11:51:09.275 <com.ipa.base.Page.click(Page.java:151)> [main] - {} - Clicing on loginBtn_CSS button.
+[INFO ] 2022-01-10 11:51:09.491 <com.ipa.base.Page.type(Page.java:187)> [main] - {} - Typing value: wanarialajos@gmail.com into loginIdFld_ID field.
+[INFO ] 2022-01-10 11:51:09.623 <com.ipa.base.Page.click(Page.java:151)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-10 11:51:09.878 <com.ipa.base.Page.type(Page.java:187)> [main] - {} - Typing value: wanaritest12 into passwordFld_ID field.
+[INFO ] 2022-01-10 11:51:09.971 <com.ipa.base.Page.click(Page.java:151)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-10 11:51:09.972 <com.ipa.testcases.LoginTest.loginTest(LoginTest.java:35)> [main] - {} - Login is successful.
+[INFO ] 2022-01-10 11:51:13.523 <com.ipa.listeners.CustomListeners.onTestSuccess(CustomListeners.java:35)> [main] - {} - The execution of LOGINTEST testcase is PASSED!
+[INFO ] 2022-01-10 11:51:13.523 <com.ipa.listeners.CustomListeners.onTestSuccess(CustomListeners.java:36)> [main] - {} - ***************************
+[INFO ] 2022-01-10 11:51:30.640 <com.ipa.base.Page.click(Page.java:151)> [main] - {} - Clicing on crmBtn_CSS button.
+[INFO ] 2022-01-10 11:51:30.959 <com.ipa.base.Page.click(Page.java:151)> [main] - {} - Clicing on accountsMenu_CSS button.
+[INFO ] 2022-01-10 11:51:32.166 <com.ipa.base.Page.click(Page.java:151)> [main] - {} - Clicing on createAccountBtn_CSS button.
+[INFO ] 2022-01-10 11:51:33.962 <com.ipa.base.Page.type(Page.java:187)> [main] - {} - Typing value: Raman into accountNameFld_CSS field.
+[DEBUG] 2022-01-10 11:51:34.312 <com.ipa.base.Page.verifyEquals(Page.java:213)> [main] - {} - Verfication is unsuccessful!
+[DEBUG] 2022-01-10 11:51:34.312 <com.ipa.base.Page.verifyEquals(Page.java:214)> [main] - {} - expected [b] but found [a]
+[INFO ] 2022-01-10 11:51:36.548 <com.ipa.listeners.CustomListeners.onTestSuccess(CustomListeners.java:35)> [main] - {} - The execution of CREATEACCOUNTTEST testcase is PASSED!
+[INFO ] 2022-01-10 11:51:36.549 <com.ipa.listeners.CustomListeners.onTestSuccess(CustomListeners.java:36)> [main] - {} - ***************************

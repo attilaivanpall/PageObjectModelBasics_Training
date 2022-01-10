@@ -1,0 +1,12 @@
+[DEBUG] 2022-01-06 09:07:44.732 [main] Page - {} - Config file is loaded.
+[INFO ] 2022-01-06 09:07:44.743 [main] Page - {} - OR file is loaded.
+[INFO ] 2022-01-06 09:07:48.766 [main] Page - {} - CHROME browser is launched.
+[INFO ] 2022-01-06 09:07:53.231 [main] Page - {} - https://www.zoho.com/ URL is opened.
+[INFO ] 2022-01-06 09:07:55.726 [main] Page - {} - Clicing on loginBtn_CSS button.
+[INFO ] 2022-01-06 09:07:55.962 [main] Page - {} - Typing value: wanarialajos@gmail.com into loginIdFld_ID field.
+[INFO ] 2022-01-06 09:07:56.113 [main] Page - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-06 09:07:56.404 [main] Page - {} - Typing value: wanaritest12 into passwordFld_ID field.
+[INFO ] 2022-01-06 09:07:56.478 [main] Page - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-06 09:07:56.480 [main] Page - {} - Login is successful.
+[INFO ] 2022-01-06 09:07:59.495 [main] Page - {} - End of test log.
+[INFO ] 2022-01-06 09:07:59.495 [main] Page - {} - **********************************************

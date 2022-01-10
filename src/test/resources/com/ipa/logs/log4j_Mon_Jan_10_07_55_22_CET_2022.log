@@ -1,0 +1,25 @@
+[DEBUG] 2022-01-10 07:55:22.474 <com.ipa.base.Page.<init>(Page.java:76)> [main] - {} - Config file is loaded.
+[INFO ] 2022-01-10 07:55:22.479 <com.ipa.base.Page.<init>(Page.java:91)> [main] - {} - OR file is loaded.
+[INFO ] 2022-01-10 07:55:25.148 <com.ipa.base.Page.<init>(Page.java:123)> [main] - {} - CHROME browser is launched.
+[INFO ] 2022-01-10 07:55:28.642 <com.ipa.base.Page.<init>(Page.java:127)> [main] - {} - https://www.zoho.com/ URL is opened.
+[INFO ] 2022-01-10 07:55:30.258 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on loginBtn_CSS button.
+[INFO ] 2022-01-10 07:55:30.490 <com.ipa.base.Page.type(Page.java:189)> [main] - {} - Typing value: wanarialajos@gmail.com into loginIdFld_ID field.
+[INFO ] 2022-01-10 07:55:30.605 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-10 07:55:30.867 <com.ipa.base.Page.type(Page.java:189)> [main] - {} - Typing value: wanaritest12 into passwordFld_ID field.
+[INFO ] 2022-01-10 07:55:30.940 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-10 07:55:30.942 <com.ipa.testcases.LoginTest.loginTest(LoginTest.java:35)> [main] - {} - Login is successful.
+[INFO ] 2022-01-10 07:55:34.493 <com.ipa.listeners.CustomListeners.onTestSuccess(CustomListeners.java:36)> [main] - {} - The execution of LOGINTEST testcase is PASSED!
+[INFO ] 2022-01-10 07:55:34.493 <com.ipa.listeners.CustomListeners.onTestSuccess(CustomListeners.java:37)> [main] - {} - ***************************
+[INFO ] 2022-01-10 07:55:45.567 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on crmBtn_CSS button.
+[INFO ] 2022-01-10 07:55:45.964 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on accountsMenu_CSS button.
+[INFO ] 2022-01-10 07:55:57.042 <com.ipa.listeners.CustomListeners.onTestFailure(CustomListeners.java:57)> [main] - {} - The execution of CREATEACCOUNTTEST testcase is FAILED!
+[INFO ] 2022-01-10 07:55:57.043 <com.ipa.listeners.CustomListeners.onTestFailure(CustomListeners.java:58)> [main] - {} - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"lyte-button[class = 'dB'] > button1"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATTILA-PC', ip: '172.29.20.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\attil\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64570}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c5d1631cca47a6ac31f90ca2eba971e4
+*** Element info: {Using=css selector, value=lyte-button[class = 'dB'] > button1}
+[INFO ] 2022-01-10 07:55:57.043 <com.ipa.listeners.CustomListeners.onTestFailure(CustomListeners.java:59)> [main] - {} - ***************************

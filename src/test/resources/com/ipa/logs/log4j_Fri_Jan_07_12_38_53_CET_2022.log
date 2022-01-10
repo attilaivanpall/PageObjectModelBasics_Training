@@ -1,0 +1,17 @@
+[DEBUG] 2022-01-07 12:38:54.085 <com.ipa.base.Page.<init>(Page.java:72)> [main] - {} - Config file is loaded.
+[INFO ] 2022-01-07 12:38:54.094 <com.ipa.base.Page.<init>(Page.java:87)> [main] - {} - OR file is loaded.
+[INFO ] 2022-01-07 12:38:57.154 <com.ipa.base.Page.<init>(Page.java:119)> [main] - {} - CHROME browser is launched.
+[INFO ] 2022-01-07 12:39:01.389 <com.ipa.base.Page.<init>(Page.java:123)> [main] - {} - https://www.zoho.com/ URL is opened.
+[INFO ] 2022-01-07 12:39:03.112 <com.ipa.base.Page.click(Page.java:149)> [main] - {} - Clicing on loginBtn_CSS button.
+[INFO ] 2022-01-07 12:39:03.340 <com.ipa.base.Page.type(Page.java:186)> [main] - {} - Typing value: wanarialajos@gmail.com into loginIdFld_ID field.
+[INFO ] 2022-01-07 12:39:03.464 <com.ipa.base.Page.click(Page.java:149)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-07 12:39:03.749 <com.ipa.base.Page.type(Page.java:186)> [main] - {} - Typing value: wanaritest12 into passwordFld_ID field.
+[INFO ] 2022-01-07 12:39:03.832 <com.ipa.base.Page.click(Page.java:149)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-07 12:39:03.834 <com.ipa.testcases.LoginTest.loginTest(LoginTest.java:35)> [main] - {} - Login is successful.
+[INFO ] 2022-01-07 12:39:19.960 <com.ipa.base.Page.click(Page.java:149)> [main] - {} - Clicing on crmBtn_CSS button.
+[INFO ] 2022-01-07 12:39:20.308 <com.ipa.base.Page.click(Page.java:149)> [main] - {} - Clicing on accountsMenu_CSS button.
+[INFO ] 2022-01-07 12:39:21.471 <com.ipa.base.Page.click(Page.java:149)> [main] - {} - Clicing on createAccountBtn_CSS button.
+[INFO ] 2022-01-07 12:39:23.224 <com.ipa.base.Page.type(Page.java:186)> [main] - {} - Typing value: Raman into accountNameFld_CSS field.
+[INFO ] 2022-01-07 12:39:23.225 <com.ipa.testcases.CreateAccountTest.createAccountTest(CreateAccountTest.java:31)> [main] - {} - createAccount is successful.
+[INFO ] 2022-01-07 12:39:25.244 <com.ipa.base.Page.quit(Page.java:158)> [main] - {} - End of test log.
+[INFO ] 2022-01-07 12:39:25.245 <com.ipa.base.Page.quit(Page.java:159)> [main] - {} - **********************************************

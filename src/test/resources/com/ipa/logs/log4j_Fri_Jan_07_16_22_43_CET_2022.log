@@ -1,0 +1,16 @@
+[DEBUG] 2022-01-07 16:22:44.216 <com.ipa.base.Page.<init>(Page.java:76)> [main] - {} - Config file is loaded.
+[INFO ] 2022-01-07 16:22:44.221 <com.ipa.base.Page.<init>(Page.java:91)> [main] - {} - OR file is loaded.
+[INFO ] 2022-01-07 16:22:47.187 <com.ipa.base.Page.<init>(Page.java:123)> [main] - {} - CHROME browser is launched.
+[INFO ] 2022-01-07 16:22:52.247 <com.ipa.base.Page.<init>(Page.java:127)> [main] - {} - https://www.zoho.com/ URL is opened.
+[INFO ] 2022-01-07 16:22:54.590 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on loginBtn_CSS button.
+[INFO ] 2022-01-07 16:22:54.817 <com.ipa.base.Page.type(Page.java:189)> [main] - {} - Typing value: wanarialajos@gmail.com into loginIdFld_ID field.
+[INFO ] 2022-01-07 16:22:54.938 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-07 16:22:55.197 <com.ipa.base.Page.type(Page.java:189)> [main] - {} - Typing value: wanaritest12 into passwordFld_ID field.
+[INFO ] 2022-01-07 16:22:55.271 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-07 16:22:55.273 <com.ipa.testcases.LoginTest.loginTest(LoginTest.java:35)> [main] - {} - Login is successful.
+[INFO ] 2022-01-07 16:23:12.248 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on crmBtn_CSS button.
+[INFO ] 2022-01-07 16:23:12.617 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on accountsMenu_CSS button.
+[INFO ] 2022-01-07 16:23:13.755 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on createAccountBtn_CSS button.
+[INFO ] 2022-01-07 16:23:15.490 <com.ipa.base.Page.type(Page.java:189)> [main] - {} - Typing value: Raman into accountNameFld_CSS field.
+[DEBUG] 2022-01-07 16:23:15.835 <com.ipa.base.Page.verifyEquals(Page.java:215)> [main] - {} - Verfication is unsuccessful!
+[DEBUG] 2022-01-07 16:23:15.836 <com.ipa.base.Page.verifyEquals(Page.java:216)> [main] - {} - expected [b] but found [a]

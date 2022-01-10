@@ -1,0 +1,16 @@
+[DEBUG] 2022-01-10 07:51:13.517 <com.ipa.base.Page.<init>(Page.java:76)> [main] - {} - Config file is loaded.
+[INFO ] 2022-01-10 07:51:13.521 <com.ipa.base.Page.<init>(Page.java:91)> [main] - {} - OR file is loaded.
+[INFO ] 2022-01-10 07:51:16.646 <com.ipa.base.Page.<init>(Page.java:123)> [main] - {} - CHROME browser is launched.
+[INFO ] 2022-01-10 07:51:21.540 <com.ipa.base.Page.<init>(Page.java:127)> [main] - {} - https://www.zoho.com/ URL is opened.
+[INFO ] 2022-01-10 07:51:23.625 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on loginBtn_CSS button.
+[INFO ] 2022-01-10 07:51:23.861 <com.ipa.base.Page.type(Page.java:189)> [main] - {} - Typing value: wanarialajos@gmail.com into loginIdFld_ID field.
+[INFO ] 2022-01-10 07:51:23.995 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-10 07:51:24.277 <com.ipa.base.Page.type(Page.java:189)> [main] - {} - Typing value: wanaritest12 into passwordFld_ID field.
+[INFO ] 2022-01-10 07:51:24.374 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on nextBtn_ID button.
+[INFO ] 2022-01-10 07:51:24.375 <com.ipa.testcases.LoginTest.loginTest(LoginTest.java:35)> [main] - {} - Login is successful.
+[INFO ] 2022-01-10 07:51:27.910 <com.ipa.listeners.CustomListeners.onTestSuccess(CustomListeners.java:36)> [main] - {} - The execution of LOGINTEST testcase is PASSED!
+[INFO ] 2022-01-10 07:51:27.911 <com.ipa.listeners.CustomListeners.onTestSuccess(CustomListeners.java:37)> [main] - {} - ***************************
+[INFO ] 2022-01-10 07:51:42.546 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on crmBtn_CSS button.
+[INFO ] 2022-01-10 07:51:42.999 <com.ipa.base.Page.click(Page.java:153)> [main] - {} - Clicing on accountsMenu_CSS button.
+[INFO ] 2022-01-10 07:51:54.179 <com.ipa.listeners.CustomListeners.onTestFailure(CustomListeners.java:57)> [main] - {} - The execution of CREATEACCOUNTTEST testcase is PASSED!
+[INFO ] 2022-01-10 07:51:54.179 <com.ipa.listeners.CustomListeners.onTestFailure(CustomListeners.java:58)> [main] - {} - ***************************
